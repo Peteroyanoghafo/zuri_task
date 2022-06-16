@@ -81,6 +81,7 @@ a.terms{
     margin-bottom: 5px;
     cursor: pointer;
 }
+/* MEDIUM SCREEN */
 @media (max-width:1111px) and (min-width: 376px) {
   
     .container{
@@ -116,6 +117,7 @@ a.terms{
             flex-direction: column;
         }
 }
+/* SMALL SCREEN */
 @media (max-width: 375px) {
     *{
         margin: 0;
